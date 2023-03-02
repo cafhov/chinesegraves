@@ -7,13 +7,13 @@ identifier,Source Identifier,,
 type,Type,
 englishfamilyname,Family Name (English),true
 englishgivenname,Given Name (English),
-chinesefamilyname,Family Name (Chinese),true
-chinesegivenname,Given Name (Chinese),
-province,Province 省,true
-county,County 縣,true
-district,District 區,true
-township,Township 鄉,true
-village,Village 村,true
+chinesefamilyname,Family Name (Traditional Chinese),true
+chinesegivenname,Given Name (Traditional Chinese),
+province,Province 省 (Traditional Chinese),true
+county,County 縣 (Traditional Chinese),true
+district,District 區 (Traditional Chinese),true
+township,Township 鄉 (Traditional Chinese),true
+village,Village 村 (Traditional Chinese),true
 heading2,INTERPRETATION
 pronounced,Pronounced (Cantonese pronounciation),
 othernames, Other names
