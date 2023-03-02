@@ -1,7 +1,6 @@
 field,display_name
 title,Deceased
-chinesefamilyname,Family Name
-englishfamilyname, Family Name(English)
-plot,Plot Location/Number
+gender,Gender
 date,Year of grave
-
+location, Place of origin
+plot,Plot Location/Number
