@@ -5,8 +5,6 @@ creator,Creator,
 source,Source
 identifier,Source Identifier,,
 type,Type,
-rights,Rights,
-rightsstatement,Rights Statement,,true
 englishfamilyname,Family Name (English),true
 englishgivenname,Given Name (English),
 chinesefamilyname,Family Name (Chinese),true
@@ -17,9 +15,9 @@ district,District 區,true
 township,Township 鄉,true
 village,Village 村,true
 heading2,INTERPRETATION
-pronounced,Pronounced,
+pronounced,Pronounced (Cantonese pronounciation),
 othernames, Other names
-location,Birthplace (present day),true
+location,Birthplace (Manadarin Pinyin),true
 birthdate, Birth date,
 deathdate,Death date
 date,Year of grave,
@@ -28,5 +26,6 @@ heading3,OTHER
 plot,Plot Location/Number,
 latitude,Latitude
 longitude,Longitude
-subject,Subjects,true
-description,Notes,
+description,Interpretation Notes,
+rights,Rights,
+rightsstatement,Rights Statement,,true
