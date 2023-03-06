@@ -25,8 +25,8 @@ gender,Gender,
 description,Interpretation Notes,
 heading3,OTHER
 plot,Plot Location/Number,
-photo1, Headstone image
-photo2, Grave image
-photo3, Face image
+photo1, Headstone photograph
+photo2, Grave photograph
+photo3, Face or additional photographs
 rights,Rights,
 rightsstatement,Rights Statement,,true
