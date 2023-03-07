@@ -1,6 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/
-About,/about.html
+About,,
+About this site,/about.html,About
+How to use this site,/howto.html,About
 Records,/data.html
 Browse,/browse.html
 Families,/subjects.html
