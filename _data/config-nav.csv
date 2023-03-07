@@ -1,8 +1,10 @@
 display_name,stub,dropdown_parent
 Home,/
 About,,
-About this site,/about.html,About
+Introduction,/about.html,About
 How to use this site,/howto.html,About
+How to read a headstone,/headstone.html,About
+Explanation of the datafields,/fields.html,About
 Records,/data.html
 Browse,/browse.html
 Families,/subjects.html
