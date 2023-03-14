@@ -1,12 +1,12 @@
 field,display_name,browse_link,external_link
 title,Deceased,
-maidenname,Maiden Name
 heading1,TRANSCRIPTION
 creator,Creator,
 source,Source
 identifier,Source Identifier,,
 type,Type,
 englishfamilyname,Family Name (English),true
+maidenname,Maiden Name
 englishgivenname,Given Name (English),
 chinesefamilyname,Family Name (Traditional Chinese),true
 chinesegivenname,Given Name (Traditional Chinese),
