@@ -9,6 +9,7 @@ Most are read right to left, top to bottom. With the main information, the name,
 The last characters below the name are usually the word for grave or tomb.
 
 Written as either –
+
 | 墳墓 / 坟墓 | 之墓 |
 | ------ | ------ |
 | Fen Mo (trad./simp.) | Zi Mo|
@@ -71,6 +72,7 @@ Additional information could also be provided such as the clan or society to whi
 As many of the Chinese came from Southern China, from the Guangdong area, most were members of the See Yup, or four counties. So some headstones will provide reference to the county they belonged to.
 
 ## 四邑 – See Yup – Four counties
+
 |  |  |
 |--|--|
 | **開邑 Ning Yup** | 台山 Taishan/Toi San county. *寧陽 Ning Yang is the old name for Toi San*|
