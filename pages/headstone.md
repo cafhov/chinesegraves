@@ -12,14 +12,14 @@ The last characters below the name are usually the word for grave or tomb.
 
 Written as either –
 
-<center>
+<div align="center">
  
 |  |  |
 | ------ | ------ |
 | 墳墓 / 坟墓 | 之墓 |
 | Fen Mo (trad./simp.) | Zi Mo|
 
-</center>
+</div>
 The *right column* usually provides the **location.**
 
 Common locations for the Melbourne graves are:
