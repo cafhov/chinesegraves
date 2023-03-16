@@ -6,8 +6,7 @@ permalink: /headstone.html
 
 {% include feature/jumbotron.html objectid=174 %}
 
-# HOW TO READ A HEADSTONE
-## Chinese graves - Reading the inscriptions
+## How to read a headstone
 Most are read right to left, top to bottom. With the main information, the name, in the central column.
 The last characters below the name are usually the word for grave or tomb.
 
