@@ -20,6 +20,7 @@ Written as either –
 | Fen Mo (trad./simp.) | Zi Mo|
 
 </div>
+
 The *right column* usually provides the **location.**
 
 Common locations for the Melbourne graves are:
