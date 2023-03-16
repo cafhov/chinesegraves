@@ -11,7 +11,7 @@ The last characters below the name are usually the word for grave or tomb.
 Written as either –
 
 
-| 墳墓 / 坟墓 | 之墓 |
+ | 墳墓 / 坟墓 | 之墓 |
 | ------ | ------ |
 | Fen Mo (trad./simp.) | Zi Mo|
 
