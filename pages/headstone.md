@@ -11,15 +11,11 @@ Most are read right to left, top to bottom. With the main information, the name,
 The last characters below the name are usually the word for grave or tomb.
 
 Written as either –
-
-<div align="center">
  
 |  |  |
 | ------ | ------ |
 | 墳墓 / 坟墓 | 之墓 |
 | Fen Mo (trad./simp.) | Zi Mo|
-
-</div>
 
 The *right column* usually provides the **location.**
 
