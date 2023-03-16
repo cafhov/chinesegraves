@@ -15,11 +15,6 @@ Written as either –
 | 墳墓 / 坟墓 | 之墓 |
 | Fen Mo (trad./simp.) | Zi Mo|
 
-| 墳墓 / 坟墓 | 之墓 |
-| ------ | ------ |
-| Fen Mo (trad./simp.) | Zi Mo|
-
-
 The *right column* usually provides the **location.**
 
 Common locations for the Melbourne graves are:
