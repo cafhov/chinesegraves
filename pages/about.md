@@ -39,9 +39,11 @@ Contributions by
 
 ## References
 - Southern Memorial Cemetery Trust. 
-https://smct.org.au/our-locations/about-melbourne-general-cemetery/mgc-history
+
+[https://smct.org.au/our-locations/about-melbourne-general-cemetery/mgc-history](https://smct.org.au/our-locations/about-melbourne-general-cemetery/mgc-history)
 - Melbourne Cemetery by Andrew Wong
-http://chineseancestor.org/victoria/melbourne-cemetery/
+
+[http://chineseancestor.org/victoria/melbourne-cemetery/](http://chineseancestor.org/victoria/melbourne-cemetery/)
 - Kok, H. J. (2016). Melbourne cemetery : old Chinese section / a study by Dr Kok Hu Jin. Dee Why, NSW: JKOK Media.
 	
 ## Copyright
