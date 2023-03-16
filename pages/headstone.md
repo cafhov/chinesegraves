@@ -3,6 +3,9 @@ title: How to read a headstone
 layout: about
 permalink: /headstone.html
 ---
+
+{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+
 # HOW TO READ A HEADSTONE
 ## Chinese graves - Reading the inscriptions
 Most are read right to left, top to bottom. With the main information, the name, in the central column.
