@@ -16,6 +16,8 @@ credits: true
 
 This website records the graves of Chinese interred at the Melbourne General Cemetery from 1873 to 2013.
 
+{% include feature/image.html objectid="headstone_example" %}
+
 You will find details about each grave including
 - Photographs of the grave that may include the headstone, a view of the plot and other possible photos such as facial portrait.
 - Location of the grave plot within the cemetery
