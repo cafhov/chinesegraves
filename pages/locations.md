@@ -8,7 +8,7 @@ permalink: /locations.html
 cloud-fields: site.data.theme.locations-fields
 ---
 
-## Browse Locations
+## Places of Origin
 
-Use this word cloud visualisation to browse Places of origin.
+Use this word cloud visualisation to browse places of origin.
 Word size is determined by frequency and all words link to a corresponding collection search.
