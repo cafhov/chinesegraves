@@ -23,6 +23,7 @@ You will find details about each grave including
 - Location of the grave plot within the cemetery
 - A transcription of the headstone inscription - Details may include Names(English and Chinese), Dates, Locations of origin in China
 
+
 {% include feature/image.html objectid=1 width="75" %}
 
 The Melbourne General Cemetery was opened in 1853 and designed as a public park with curved pathways and rest pavilions. There are about 300,00 burials in the cemetery which include notable people such as prime ministers and premiers.
