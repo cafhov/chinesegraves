@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid=1 %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;References;Copyright" %}
 
 ## About the Collection
 
@@ -29,16 +29,6 @@ Many of the graves are already documented and discoverable via dedicated English
 
 Hence this website endeavours to make this important information available for researchers and genealogists to discover about the Chinese buried here. Chinese names and village names in Chinese characters are critically important for family researchers.
 
-## Credits
-- Terry Young - Website development and photography
-- Anna Wolf - Transcription of headstone inscriptions
-
-Contributions by
-- Sophie Couchman
-- Andrew Huang
-- Carly Peters (SMCT)
-- John Griffiths
-
 ## References
 - Southern Memorial Cemetery Trust. 
 
@@ -51,7 +41,3 @@ Contributions by
 ## Copyright
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
-
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
