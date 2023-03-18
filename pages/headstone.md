@@ -4,7 +4,7 @@ layout: about
 permalink: /headstone.html
 ---
 
-{% include feature/jumbotron.html objectid=174 %}
+{% include feature/jumbotron.html objectid=183 %}
 
 ## How to read a headstone
 Most are read right to left, top to bottom. With the main information, the name, in the central column.
