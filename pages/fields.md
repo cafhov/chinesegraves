@@ -33,7 +33,7 @@ Learn how the details of each field was determined and interpreted.
 | Gender  | Content Cell  |
 | Interpretation Notes  | Content Cell  |
 | OTHER  |   |
-| Plot Location/Number  | The location of the grave plot including Denomination, Compartment section and plot number  |
-| Headstone photograph  | A link to a higher resolution version of the headstone image  |
-| Grave photograph  | A link to a higher resolution version of the grave image  |
-| Face or additional photographs  | A link to a higher resolution version of facial image or other images  |
+| Plot Location/Number  | The location of the grave plot including Denomination, Compartment section and plot number. Details have been verified with Southern Metropolitan Cemeteries Trust. |
+| Headstone photograph  | A link to a higher resolution version of the headstone image taken by CAFHOV. |
+| Grave photograph  | A link to a higher resolution version of the grave image taken by CAFHOV. |
+| Face or additional photographs  | A link to a higher resolution version of facial image or other images taken by CAFHOV. |
