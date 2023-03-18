@@ -8,7 +8,7 @@ permalink: /fields.html
 
 ## An explanation of the metadata fields
 
-Learn how the details of each field was determined and interpretated.
+Learn how the details of each field was determined and interpreted.
 
 | Field  | Description |
 | ------------- | ------------- |
