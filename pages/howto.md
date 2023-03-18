@@ -3,7 +3,7 @@ title: How to use this site
 layout: about
 permalink: /howto.html
 ---
-{% include feature/jumbotron.html objectid=174 %}
+{% include feature/jumbotron.html objectid=175 %}
 
 ## How to use this site
 
