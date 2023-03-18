@@ -3,6 +3,8 @@ title: How to use this site
 layout: about
 permalink: /howto.html
 ---
+{% include feature/jumbotron.html objectid=174 %}
+
 ## How to use this site
 
 Visitors to this site will generally have one of two purposes
