@@ -8,4 +8,5 @@ permalink: /submission.html
 
 ## Submit a grave plot for inclusion
 Some explanatatory text.
-{% include feature/button.html text="Submit a suggest grave plot" link="(https://forms.gle/C8y88ZLwkFuprfat6)" color="success" %}
+
+{% include feature/button.html text="Submit a suggest grave plot" link="https://forms.gle/C8y88ZLwkFuprfat6" color="success" %}
