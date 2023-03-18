@@ -3,7 +3,12 @@ title: Explanation of the data fields
 layout: about
 permalink: /fields.html
 ---
+
+{% include feature/jumbotron.html objectid=8 %}
+
 ## An explanation of the metadata fields
+
+Learn how the details of each field was determined and interpretated.
 
 | Field  | Description |
 | ------------- | ------------- |
