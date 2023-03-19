@@ -15,13 +15,19 @@ If you wish to find a specific person, family or listing, use the navigation as 
 
 This key Search function is available on all pages. 
 It will search all metadata fields and display a summarised list of item information.
-Open Search Options to learn advanced search options
+Open Search Options to learn advanced search functions.
 
 **Browse**
-- This page will show headstone images of all graves showing labels for Names, dates, places of origin.
+{% include feature/image.html objectid="https://cafhov.github.io/chinesegraves/objects/browse_page.jpg" %}
+
+This page will show headstone images of all graves showing labels for Names, dates, places of origin.
+Select the "View Full Record" link to see all details for that grave.
+
+{% include feature/image.html objectid="https://cafhov.github.io/chinesegraves/objects/browse_search.jpg" %}
+
 Use the Search function by entering your search term into the search box and selecting Search.
 All items with your search term will display.
-Select the "View Full Record" link to see all details for that grave
+
 
 **Records**
 - This page will display a list of all graves in tabular form. Record details include Name, Gender, Year of grave, Place of origin and Plot Location/Number.
