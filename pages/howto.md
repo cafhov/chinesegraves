@@ -7,10 +7,9 @@ permalink: /howto.html
 
 ## How to use this site
 
-### Searching with a purpose ###
-If you wish to find a specific person, family or listing, use the navigation as follows
+If you wish to find a specific person, family or listing, use the navigation as follows:
 
-**Search**
+### Search ###
 {% include feature/image.html objectid="https://cafhov.github.io/chinesegraves/objects/main_search.jpg" %}
 
 This key Search function is available on all pages. 
