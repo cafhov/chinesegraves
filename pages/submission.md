@@ -13,7 +13,8 @@ Be aware that this website is being regularly updated and it may have already be
 Select the button  below to proceed with your suggestion.
 You will be required to provide
 1. Your email address
-2. Location of the grave
-3. Photograpghs of the headstone 
+2. The name on the headstone
+3. Location of the grave
+
 
 {% include feature/button.html text="Submit grave plot details" link="https://forms.gle/8ri5PTdVXNgNssbE7" color="success" %}
