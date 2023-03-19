@@ -12,7 +12,8 @@ If you wish to find a specific person, family or listing, use the navigation as 
 
 **Search**
 {% include feature/image.html objectid="https://cafhov.github.io/chinesegraves/objects/main_search.jpg" %}
-- This key Search function is available on all pages. 
+
+This key Search function is available on all pages. 
 It will search all metadata fields and display a summarised list of item information.
 Open Search Options to learn advanced search options
 
