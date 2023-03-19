@@ -4,7 +4,7 @@ layout: about
 permalink: /howto.html
 ---
 {% include feature/jumbotron.html objectid=175 %}
-
+{% include feature/nav-menu.html sections="Search;Records;Browse;Families;Place of origin" %}
 ## How to use this site
 
 If you wish to find a specific person, family or listing, use the navigation menu as follows:
