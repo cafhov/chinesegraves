@@ -16,17 +16,6 @@ This key Search function is available on all pages.
 It will search all metadata fields and display a summarised list of item information.
 Open Search Options to learn advanced search functions.
 
-### Browse ###
-{% include feature/image.html objectid="https://cafhov.github.io/chinesegraves/objects/browse_page.jpg" %}
-
-This page will show headstone images of all graves showing labels for Names, dates, places of origin.
-Select the "View Full Record" link to see all details for that grave.
-
-{% include feature/image.html objectid="https://cafhov.github.io/chinesegraves/objects/browse_search.jpg" %}
-
-Use the Search function by entering your search term into the search box and selecting Search.
-All items with your search term will display.
-
 ### Records ###
 {% include feature/image.html objectid="https://cafhov.github.io/chinesegraves/objects/records_page.jpg" %}
 
@@ -38,6 +27,17 @@ Selecting the "Deceased name link will open the full record for that grave.
 
 Use the Search function by entering your search term into the search box and the current display will change to show your filtered list.
 	
+### Browse ###
+{% include feature/image.html objectid="https://cafhov.github.io/chinesegraves/objects/browse_page.jpg" %}
+
+This page will show headstone images of all graves showing labels for Names, dates, places of origin.
+Select the "View Full Record" link to see all details for that grave.
+
+{% include feature/image.html objectid="https://cafhov.github.io/chinesegraves/objects/browse_search.jpg" %}
+
+Use the Search function by entering your search term into the search box and selecting Search.
+All items with your search term will display.
+
 ### Families ###
 {% include feature/image.html objectid="https://cafhov.github.io/chinesegraves/objects/families_page.jpg" %}
 
