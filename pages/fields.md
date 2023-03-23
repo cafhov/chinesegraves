@@ -14,9 +14,9 @@ Learn how the details of each field was determined and interpreted.
 | ------------- | ------------- |
 | Deceased  | Derived from the Family Name and Given Names fields. Some may be modified to reflect logical reading. |
 | TRANSCRIPTION |  |
-| Family Name (English)  | Transcribed directly from headstone text. If no English, the Family Name is determined from common translation of the Chinese name or derived from SMCT records.  |
+| Family Name (English)  | Transcribed directly from headstone text. If no English, the Family Name is determined from commonly accepted translation of the Chinese name or derived from SMCT records.  |
 | Maiden Name  | If the first character (family name) is followed by 門 this denotes the person is a woman and she has married into this family.  |
-| Given Name (English)  | Transcribed directly from headstone text. If no English, the Given Name is determined from common translation of the Chinese name or derived from SMCT records.  |
+| Given Name (English)  | Transcribed directly from headstone text. If no English, the Given Name is determined from commonly accepted translation of the Chinese name or derived from SMCT records.  |
 | Family Name (Traditional Chinese) | Transcribed directly from headstone text |
 | Given Name (Traditional Chinese)  | Transcribed directly from headstone text  |
 | Province 省 (Traditional Chinese)  |  Transcribed directly from headstone text |
