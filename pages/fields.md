@@ -13,6 +13,7 @@ Learn how the details of each field was determined and interpreted.
 | Field  | Transcription method |
 | ------------- | ------------- |
 | Deceased  | Derived from the Family Name and Given Names fields. Some may be modified to reflect logical reading. |
+| | |
 | TRANSCRIPTION |  |
 | Family Name (English)  | Transcribed directly from headstone text. If no English, the Family Name is determined from commonly accepted translation of the Chinese name or derived from SMCT records.  |
 | Maiden Name  | If the first character (family name) is followed by 門 this denotes the person is a woman and she has married into this family.  |
@@ -23,6 +24,7 @@ Learn how the details of each field was determined and interpreted.
 | County 縣 (Traditional Chinese)  |  Transcribed directly from headstone text |
 | Township 鄉 (Traditional Chinese)  |  Transcribed directly from headstone text |
 | Village 村 (Traditional Chinese)  |  Transcribed directly from headstone text |
+| | |
 | INTERPRETATION  |   |
 | Pronounced (Cantonese pronounciation)  | Content Cell  |
 | Other names  | Derived from additional headstone information or SMCT records  |
@@ -32,6 +34,7 @@ Learn how the details of each field was determined and interpreted.
 | Year of grave  | Derived from the Death Date or SMCT records  |
 | Gender  | If the name is followed by the character 公 this denotes a male. If the first character (family name) is followed by 門 this denotes the person is a woman.  |
 | Interpretation Notes  | Additional comments about the transcription and interpretation method and headstone text that should be noted.  |
+| | |
 | OTHER  |   |
 | Plot Location/Number  | The location of the grave plot including Denomination, Compartment section and plot number. Details have been verified with Southern Metropolitan Cemeteries Trust. |
 | Headstone photograph  | A link to a higher resolution version of the headstone image taken by CAFHOV. |
