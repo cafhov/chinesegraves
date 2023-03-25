@@ -26,7 +26,7 @@ gender,Gender,
 description,Interpretation Notes,
 heading3,OTHER
 plot,Plot Location/Number,
-googlemap, Google map location,,true
+googlemap,Google map location,,true
 photo1, Headstone photograph
 photo2, Grave photograph
 photo3, Portrait or additional photographs
