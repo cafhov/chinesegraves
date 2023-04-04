@@ -6,6 +6,8 @@ permalink: /submission.html
 
 {% include feature/jumbotron.html objectid=8 %}
 
+{% include feature/nav-menu.html sections="Suggest a grave plot for inclusion;Submit a Community contribution;Suggest a correction" %}
+
 ## Suggest a grave plot for inclusion
 If you find a grave that is not listed on this site, you may wish to suggest it to added.
 Be aware that this website is being regularly updated and it may have already been recorded but not yet updated to the site.
