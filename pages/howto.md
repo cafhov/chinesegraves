@@ -44,8 +44,8 @@ All items with your search term will display.
 This page will display a wordcloud of family names.
 Selecting the name will open a list records for that name.
 	
-### Place of origin ###
+### Ancestral origins ###
 {% include feature/image.html objectid="https://cafhov.github.io/chinesegraves/objects/places_page.jpg" %}
 
-This page will display a wordcloud of location names for a place of origin.
+This page will display a wordcloud of location names for the places of ancestral origin.
 Selecting the location name will open a list records for that name.
