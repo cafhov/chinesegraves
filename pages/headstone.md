@@ -14,10 +14,10 @@ Written as either –
 
 |  |  |
 | ------ | ------ |
-| 墳墓 / 坟墓 | 之墓 |
-| Fen Mo (trad./simp.) | Zi Mo|
+| 墳墓 / 坟墓 |   之墓 |
+| Fen Mo (trad./simp.) |   Zi Mo|
 
-The *right column* usually provides the **location.**
+**Location of ancestral origin.**
 
 Common locations for the Melbourne graves are:
 
@@ -31,7 +31,7 @@ Common locations for the Melbourne graves are:
 
 中山 – Zhongshan / Zhong San
 
-Other words used are for area:
+Words denoting the location:
 
 省 – Xing – Province
 
@@ -45,7 +45,7 @@ Other words used are for area:
 
 村 – Chuen – Village
 
-The *left column* usually provides the **dates of birth and death**.
+**Dates of birth and death**.
 
 The characters to denote **birth** on headstones
 生於 or 生于
