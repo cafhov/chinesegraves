@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This website records the graves of Chinese interred at the Melbourne General Cemetery from 1873 to 2013.
+This website records the graves of Chinese interred at the Melbourne General Cemetery from 1945 to 2013.
 
 {% include feature/image.html objectid="https://cafhov.github.io/chinesegraves/objects/headstone_example.jpg" %}
 
