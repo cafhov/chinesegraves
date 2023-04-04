@@ -19,7 +19,7 @@ You will be required to provide
 3. Location of the grave
 
 
-{% include feature/button.html text="Submit grave plot details" link="https://forms.gle/8ri5PTdVXNgNssbE7" color="success" %}
+{% include feature/button.html text="Submit grave plot details" link="https://forms.gle/8ri5PTdVXNgNssbE7" color="primary" %}
 
 ## Submit a Community contribution
 If you know more about a person who is recorded on this website, please provide us some information to share with the public.
@@ -44,4 +44,4 @@ You will be required to provide
 3. Your suggested correction
 
 
-{% include feature/button.html text="Submit a correction" link="https://forms.gle/8h8jUW4UhcUXK1AA9" color="success" %}
+{% include feature/button.html text="Submit a correction" link="https://forms.gle/8h8jUW4UhcUXK1AA9" color="warning" %}
