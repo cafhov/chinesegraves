@@ -18,3 +18,28 @@ You will be required to provide
 
 
 {% include feature/button.html text="Submit grave plot details" link="https://forms.gle/8ri5PTdVXNgNssbE7" color="success" %}
+
+## Submit a Community contribution
+If you know more about a person who is recorded on this website, please provide us some information to share with the public.
+We value your contribution.
+
+Select the button  below to proceed with your suggestion.
+You will be required to provide
+1. Your email address
+2. The name on the headstone
+3. Your contribution
+
+
+{% include feature/button.html text="Submit a contribution" link="https://forms.gle/pUzyDBP2wyvibDwE9" color="success" %}
+
+## Suggest a correction
+Use this form if you have found information on this website to be incorrect.
+
+Select the button  below to proceed with your suggestion.
+You will be required to provide
+1. Your email address
+2. The name on the headstone
+3. Your suggested correction
+
+
+{% include feature/button.html text="Submit a correction" link="https://forms.gle/8h8jUW4UhcUXK1AA9" color="success" %}
