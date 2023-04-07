@@ -48,7 +48,7 @@ Selecting the name will open a list records for that name.
 {% include feature/image.html objectid="https://cafhov.github.io/chinesegraves/objects/places_page.jpg" %}
 
 This page will display a wordcloud of location names for the places of ancestral origin.
-Selecting the location name will open a list records for that name.
+Selecting the location name will open a list records for that name. yes
 
 ### Help Video ###
 {% include feature/video.html objectid="https://vimeo.com/812673252/a903f8641d" width="75" %}
