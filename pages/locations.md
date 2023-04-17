@@ -12,4 +12,4 @@ cloud-fields: site.data.theme.locations-fields
 
 Use this word cloud visualisation to browse places of ancestral origin.
 Word size is determined by frequency and all words link to a corresponding collection search.
-Locations are given in Manadarin Pinyin. Names in Cantonese can be found [here](https://cafhov.github.io/chinesegraves/headstone.html).
+Locations are given in Manadarin Pinyin. Some names in Cantonese can be found [here](https://cafhov.github.io/chinesegraves/headstone.html).
