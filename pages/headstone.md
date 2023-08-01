@@ -110,7 +110,7 @@ As many of the Chinese came from Southern China, from the Guangdong area, most w
 
 |  |  |
 |--|--|
-| **開邑 Ning Yup** | 台山 Taishan/Toi San county. *寧陽 Ning Yang is the old name for Toi San*|
+| **寧邑 Ning Yup** | 台山 Taishan/Toi San county. *寧陽 Ning Yang is the old name for Toi San*|
 | **開邑 Hoi Yup**| 開平 – Kaiping/Hoi Ping county |
 | **恩邑 Yun Yup**| 恩平 – Enping/Yun Ping county |
 | **會邑 Wui Yup**| 新會 – Xinhui/Sun Wui county |
