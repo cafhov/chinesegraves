@@ -114,3 +114,7 @@ As many of the Chinese came from Southern China, from the Guangdong area, most w
 | **開邑 Hoi Yup**| 開平 – Kaiping/Hoi Ping county |
 | **恩邑 Yun Yup**| 恩平 – Enping/Yun Ping county |
 | **會邑 Wui Yup**| 新會 – Xinhui/Sun Wui county |
+
+## References
+- Ely Finch. 
+[A Guide to Reading Old Chinese Gravestones: the Sexagenary Cycle](https://www.elyfinch.com/blog/the-chinese-sexagenary-cycle-and-how-to-read-years-expressed-in-it-on-gravestones-and-other-inscriptions)
