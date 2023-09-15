@@ -13,7 +13,7 @@ credits: true
 
 ## Stories about the people at the cemetery
 
-Read stories about the people who have been interred at the Melbourne General Cemetery. They have ordinary lives of people striving to find a better life for themselves and their families.
+Read about the people who have been interred at the Melbourne General Cemetery. They have ordinary and extraordinary lives of people striving to find a better life for themselves and their families.
 
 ## Ernest Leong Gie
 
