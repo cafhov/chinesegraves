@@ -8,6 +8,9 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+
+{% include feature/jumbotron.html objectid=1 %}
+
 ## Mary Young
 
 {% include feature/image.html objectid="https://cafhov.github.io/chinesegraves/objects/Mary_Young.jpg" %}
