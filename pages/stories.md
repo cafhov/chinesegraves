@@ -8,13 +8,11 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-
 {% include feature/jumbotron.html objectid=175 %}
 {% include feature/nav-menu.html sections="Ernest Leong Gie;Shee Leong;Mary Young;Henry Fook Shing" %}
 ## Stories about the people at the cemetery
 
 Read about the people who have been interred at the Melbourne General Cemetery. They have ordinary and extraordinary lives, of people striving to find a better life for themselves and their families.
-
 ## Ernest Leong Gie
 
 {% include feature/image.html objectid="https://cafhov.github.io/chinesegraves/objects/Ernest_Leong_Gie.jpg" %}
