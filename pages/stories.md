@@ -58,5 +58,6 @@ and was appointed to the Victoria Police. As a Chinese speaking migrant, he was 
 At the Melbourne General Cemetery, he was been buried with his wife (Ellen Fook Sing) in this grave.
 
 Image: Melbourne Illustrated – In the Chinese Quarter, Graphic, November 13 1880. State Library of Victoria
+
 Reference: Benjamin Wilson Mountford - Friday essay: the story of Fook Shing, colonial Victoria’s Chinese detective
 https://theconversation.com/friday-essay-the-story-of-fook-shing-colonial-victorias-chinese-detective-94017
