@@ -48,3 +48,15 @@ By Terry Young
 
 [Learn more about Mary Young from her headstone](https://cafhov.github.io/chinesegraves/item.html?id=250).
 
+## Henry Fook Shing
+
+{% include feature/image.html objectid="https://cafhov.github.io/chinesegraves/objects/fook_shing.jpg" %}
+
+Henry Fook Shing was a renown Melbourne Chinese detective in Victoria's police force.  He travelled from Guangdong via Hong Kong to Australia in the 1850s gold rush period and became a local "headman" with the Chinese community on the Bendigo goldfields. In the 1860s, when the Chinese left the goldfields, Fook Shing came to Melbourne's Chinatown 
+and was appointed to the Victoria Police. As a Chinese speaking migrant, he was able to easily mix with the local Chinese in gambling houses and opium dens in Little Bourke St. He was highly regarded and trustworthy and he made many successful arrests in the Chinese community. Fook Shing had a colourful life on and off duty.
+
+At the Melbourne General Cemetery, he was been buried with his wife (Ellen Fook Sing) in this grave.
+
+Image: Melbourne Illustrated – In the Chinese Quarter, Graphic, November 13 1880. State Library of Victoria
+Reference: Benjamin Wilson Mountford - Friday essay: the story of Fook Shing, colonial Victoria’s Chinese detective
+https://theconversation.com/friday-essay-the-story-of-fook-shing-colonial-victorias-chinese-detective-94017
