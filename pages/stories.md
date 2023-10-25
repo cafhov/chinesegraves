@@ -53,9 +53,25 @@ By Terry Young
 Henry Fook Shing was a renown Melbourne Chinese detective in Victoria's police force.  He travelled from Guangdong via Hong Kong to Australia in the 1850s gold rush period and became a local "headman" with the Chinese community on the Bendigo goldfields. In the 1860s, when the Chinese left the goldfields, Fook Shing came to Melbourne's Chinatown 
 and was appointed to the Victoria Police. As a Chinese speaking migrant, he was able to easily mix with the local Chinese in gambling houses and opium dens in Little Bourke St. He was highly regarded and trustworthy and he made many successful arrests in the Chinese community. Fook Shing had a colourful life on and off duty.
 
-At the Melbourne General Cemetery, he was been buried with his wife (Ellen Fook Sing) in this grave.
+At the Melbourne General Cemetery, he was been buried with his wife (Ellen Fook Sing).
+[Learn more about Henry Fook Shing from the headstone](https://cafhov.github.io/chinesegraves/item.html?id=288).
 
 Image: Melbourne Illustrated – In the Chinese Quarter, Graphic, November 13 1880. State Library of Victoria
 
 Reference: Benjamin Wilson Mountford - Friday essay: the story of Fook Shing, colonial Victoria’s Chinese detective
 https://theconversation.com/friday-essay-the-story-of-fook-shing-colonial-victorias-chinese-detective-94017
+
+## Ah Mon
+
+{% include feature/image.html objectid="https://cafhov.github.io/chinesegraves/objects/AhMoon.jpg" %}
+
+Ah Mon first came to Australia in 1898 via Western Australia and resided there for 23 years. In 1923, he travelled to Victoria and lived in Yarrawonga, Mildura and Wangaratta until 1934. His main occupation during his life in Australia was as a market gardener. He travelled back to China in 1912 and 1929. He had two sons in China.
+From 1934 to 1957, he resided in Melbourne, working as a cook.
+Ah Mon is a member of the Woon (溫) family clan. He is related to a number of other family clan members buried at the Melbourne General cemetery.
+
+{% include feature/image.html objectid="https://cafhov.github.io/chinesegraves/objects/AhMoon_visit.jpg" %}
+"Our family would visit his grave at the Melbourne General Cemetery. Only in recent times did we discover that he was a relative and hence supported my father when he first migrated to Australia."
+
+[Learn more about Ah Mon from his headstone](https://cafhov.github.io/chinesegraves/item.html?id=286).
+
+By Terry Young
