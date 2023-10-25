@@ -72,6 +72,8 @@ Ah Mon is a member of the Woon (溫) family clan. He is related to a number of o
 {% include feature/image.html objectid="https://cafhov.github.io/chinesegraves/objects/AhMoon_visit.jpg" %}
 "Our family would visit his grave at the Melbourne General Cemetery. Only in recent times did we discover that he was a relative and hence supported my father when he first migrated to Australia."
 
+By Terry Young
+
 [Learn more about Ah Mon from his headstone](https://cafhov.github.io/chinesegraves/item.html?id=286).
 
-By Terry Young
+
