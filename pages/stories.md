@@ -54,6 +54,7 @@ Henry Fook Shing was a renown Melbourne Chinese detective in Victoria's police f
 and was appointed to the Victoria Police. As a Chinese speaking migrant, he was able to easily mix with the local Chinese in gambling houses and opium dens in Little Bourke St. He was highly regarded and trustworthy and he made many successful arrests in the Chinese community. Fook Shing had a colourful life on and off duty.
 
 At the Melbourne General Cemetery, he was been buried with his wife (Ellen Fook Sing).
+
 [Learn more about Henry Fook Shing from the headstone](https://cafhov.github.io/chinesegraves/item.html?id=288).
 
 Image: Melbourne Illustrated – In the Chinese Quarter, Graphic, November 13 1880. State Library of Victoria
