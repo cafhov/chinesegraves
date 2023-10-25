@@ -9,7 +9,7 @@ credits: true
 ---
 
 {% include feature/jumbotron.html objectid=175 %}
-{% include feature/nav-menu.html sections="Ernest Leong Gie;Shee Leong;Mary Young;Henry Fook Shing" %}
+{% include feature/nav-menu.html sections="Ernest Leong Gie;Shee Leong (also known as Shee Hoy Leong);Mary Young;Henry Fook Shing;Ah Mon" %}
 ## Stories about the people at the cemetery
 
 Read about the people who have been interred at the Melbourne General Cemetery. They have ordinary and extraordinary lives, of people striving to find a better life for themselves and their families.
